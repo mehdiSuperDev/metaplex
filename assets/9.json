@@ -1,6 +1,6 @@
 {
 	"name":"Number #0010",
- 	"symbol": "",
+ 	"symbol": "NB",
     "description":"Collection of 10 numbers on the blockchain. This is the number 10/10.",
  	"seller_fee_basis_points": 0,
     "image":"9.png",
